@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVICoroutine</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="postprocessor">Postprocessor</string>
+    <string name="value">Value - %s</string>
+</resources>
